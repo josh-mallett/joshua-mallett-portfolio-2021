@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@400;500&display=swap');
+
+html, body {
+  margin: 0 auto;
+  padding: 0 auto;
+  width: 100%;
+  position: fixed;
+  min-height: 1vh;
+  font-family: 'Jost', sans-serif;
+  scroll-behavior: smooth;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+#root {
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+}
+
+@import './content/scss/shared';
+@import './content/scss/animations';
+@import './content/scss/media-queries';

@@ -1,0 +1,16 @@
+.subtitle-button {
+  display: inline-block;
+  text-align: center;
+  width: auto;
+  height: auto;
+  min-height: 65px;
+  margin: 3px;
+  cursor: pointer;
+  .subtitle-button-icon {
+    display: block;
+    margin: 0 auto;
+    width: 35px;
+    height: 35px;
+  }
+}
+

@@ -1,0 +1,56 @@
+[
+  {
+    "type": "Experience",
+    "title": "Full Stack Developer",
+    "company": "CGI",
+    "from": "May 2019",
+    "to": "Current",
+    "description": "Working in an AGILE team environment to build and test front-end and back-end code for components of a large system. Participating in daily scrum meetings and bi-weekly sprint-planning meetings. Helping solve any problems that may arise during the development process.",
+    "skillsUsed": ["angular", "nodejs", "typescript", "sass"]
+  },
+  {
+    "type": "Experience",
+    "title": "Software Engineer",
+    "company": "LHC Group",
+    "from": "Aug 2018",
+    "to": "May 2019",
+    "description": "Working in with a team setting, using AGILE development methodology to build different pieces of software that meets various user requirements proposed by different in-company departments.",
+    "skillsUsed": ["csharp", "react", "javascript", "angular", "jquery", "sass"]
+  },
+  {
+    "type": "Experience",
+    "title": "Software Engineer Intern",
+    "company": "LHC Group",
+    "from": "Aug 2017",
+    "to": "Aug 2018",
+    "description": "Working in with a team setting, using AGILE development methodology to build different pieces of software that meets various user requirements proposed by different in-company departments.",
+    "skillsUsed": ["csharp", "react", "javascript", "jquery", "sass"]
+  },
+  {
+    "type": "Experience",
+    "title": "Web Developer",
+    "company": "Freelance",
+    "from": "Dec 2015",
+    "to": "Current",
+    "description": "Finding and procuring customers that are in need of websites or web applications. Maintaining a frequent stream of communication with the customer is kept to ensure that they are satisfied. Building and maintaining custom-made web applications for various customers.",
+    "skillsUsed": ["html", "react", "javascript", "jquery", "php", "sass"]
+  },
+  {
+    "type": "Experience",
+    "title": "Instructor",
+    "company": "iD Tech",
+    "from": "May 2017",
+    "to": "Aug 2017",
+    "description": "Working with a large team of other instructors to run a technology day / night camp that teaches kids beginner to intermediate skills in programming. Each instructor is responsible for a different class of 8 students each week.",
+    "skillsUsed": ["javascript", "java"]
+  },
+  {
+    "type": "Education",
+    "title": "Bachelor | Computer Science",
+    "college": "UL Lafayette",
+    "from": "Aug 2014",
+    "to": "Aug 2018",
+    "description": "An emotional 4 year span where I worked two jobs and a side hustle and also studied for classes.",
+    "skillsUsed": ["html", "react", "javascript", "jquery", "java", "php"]
+  }
+]

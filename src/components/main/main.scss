@@ -1,0 +1,142 @@
+/* container stuff */
+.main-content-header {
+  display: block;
+  height: 200px;
+  margin: 0 auto;
+  padding: 0;
+  position: relative;
+  overflow-x: visible;
+  overflow-y: visible;
+  background-color: rgb(57, 65, 74);
+  text-align: center;
+}
+
+.content-centered {
+  width: 100%;
+  max-width: 520px;
+  height: auto;
+  position: absolute;
+  margin: auto;
+  top: 80px;
+  left: 0;
+  right: 0;
+}
+
+.title-container {
+  max-width: 520px;
+  position: relative;
+  margin: 0 auto;
+  margin-top: 200px;
+  text-align: center;
+  transition: all 0.25s ease-in-out;
+
+  h1,
+  h2,
+  h3 {
+    padding: 0;
+    margin: 0;
+  }
+}
+
+.expanding-ball-menu {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 100px;
+  height: 100px;
+}
+
+/* end container stuff */
+
+/* ball stuff */
+
+#me {
+  display: block;
+  margin: auto;
+  background: url("../../content/images/me.jpg");
+  background-size: cover;
+  background-position: center;
+  animation: appear-fly-up 0.4s ease-in-out;
+}
+
+.ball-large {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+}
+
+.ball-small {
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border-radius: 50%;
+  transition: all 0.5;
+  cursor: pointer;
+
+  div {
+    color: white;
+    padding-top: 50px;
+  }
+}
+
+.ball-absolute {
+  position: absolute;
+}
+
+#linkedin-icon {
+  background: url("../../content/images/linkedin.png");
+  background-size: 60px;
+  background-position: 60px 50px;
+}
+
+.launch-icon {
+  background: url("../../content/images/launch.png");
+  background-size: cover;
+  background-position: center;
+}
+
+#github-icon,
+.github-icon {
+  background: url("../../content/images/github.png");
+  background-size: cover;
+  background-position: center;
+}
+
+#resume-icon {
+  background: url("../../content/images/resume.png");
+  background-size: 70px;
+  background-position: center;
+}
+
+#projects-icon {
+  background: url("../../content/images/projects.png");
+  background-size: cover;
+  background-position: center;
+}
+
+#contact-icon {
+  background: url("../../content/images/contact.png");
+  background-size: 70px;
+  background-position: center;
+}
+
+/* end ball stuff */
+
+/* title stuff */
+
+.title-large {
+  font-size: 50px;
+}
+
+.title-medium {
+  font-size: 22px;
+}
+
+.header-spaced {
+  letter-spacing: 8px;
+}
+
+/* end title stuff */

@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Old Interactive Resume (2018)",
+    "description": "The last previous iteration of my portfolio website. Kinda similar to this one.",
+    "url": "http://joshua-mallett.com/live-projects/old-interactive-resume-2018",
+    "githubUrl": "https://github.com/josh-mallett/interactive_resume_2018",
+    "skillsUsed": ["html", "javascript", "sass"]
+  },
+  {
+    "name": "Data Cards",
+    "description": "Application UI proof of concept using cards to display data, pictures, and a button. Has simple search functionality. Made with Angular, and I also have a version made with React on my Github: https://github.com/josh-mallett/Data-Cards-React",
+    "url": "http://joshua-mallett.com/live-projects/data-cards",
+    "githubUrl": "https://github.com/josh-mallett/DataCards",
+    "skillsUsed": ["angular", "react", "javascript", "sass"]
+  },
+  {
+    "name": "NICU Moms of Louisiana",
+    "description": "Website I made and currently maintain for the NICU Moms of Louisiana non-profit organization. This was made with React, Redux Forms, Sass, and PHP.",
+    "url": "http://nicumomsla.com/",
+    "githubUrl": "https://github.com/josh-mallett/NICU-Moms-of-Louisiana-Website",
+    "skillsUsed": ["react", "javascript", "sass", "php"]
+  },
+  {
+    "name": "The Twilight Ride Website",
+    "description": "A website / logo design I made for a local start up podcast a little while back, that unfortunately never got to take off for reasons unknown to me. Made with Angular 1 and Sass.",
+    "url": "http://joshua-mallett.com/live-projects/the-twilight-ride",
+    "githubUrl": null,
+    "skillsUsed": ["html", "javascript", "jquery", "sass"]
+  },
+  {
+    "name": "Old Interactive Resume (2015)",
+    "description": "A previous iteration of a web based resume I used. I went a bit wacky with the animations on this one. Made with JQuery and Sass.",
+    "url": "http://joshua-mallett.com/live-projects/old-interactive-resume-2015",
+    "githubUrl": "https://github.com/josh-mallett/interactive_resume",
+    "skillsUsed": ["html", "javascript", "sass"]
+  },
+  {
+    "name": "Rectangle Menu",
+    "description": "Fun little UI proof-of-concept of a rectangle-menu with icon options that expand out on hover. Made with Jquery and Sass.",
+    "url": "http://joshua-mallett.com/live-projects/rectangle-menu",
+    "githubUrl": null,
+    "skillsUsed": ["html", "javascript", "sass"]
+  },
+  {
+    "name": "Windows Forms Calculator UI",
+    "description": "Basic desktop calculator UI made with windows forms C#.",
+    "url": null,
+    "githubUrl": "https://github.com/josh-mallett/DataCards",
+    "skillsUsed": ["csharp"]
+  }
+]
